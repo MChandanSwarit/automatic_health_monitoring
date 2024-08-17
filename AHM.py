@@ -106,6 +106,9 @@ def main():
             Patient.delete_patient(name=name)
           else:
             Patient.delete_patient(id=id)
+          print("\nCurrent Patients List:")
+          for pid, patient in Patient.patients.items():
+              print(f"ID: {pid}, Name: {patient.name}")
             
         elif choice == '5':
             print("Exiting...")
