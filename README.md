@@ -1,12 +1,11 @@
 # automatic_health_monitoring
 
-![image](https://github.com/user-attachments/assets/c7fae70e-d614-4b11-99aa-b45beaa8906a)
+![image](https://github.com/user-attachments/assets/37449c34-31d4-4ac3-955d-59c3d5df48f5)
 
-![image](https://github.com/user-attachments/assets/bc1ca816-4cd5-4056-aa22-0b899a641121)
+![image](https://github.com/user-attachments/assets/dff76f8f-78cd-453e-9cd5-f1f4341ba014)
 
-![image](https://github.com/user-attachments/assets/e55a7bbb-8ac5-40f6-bc62-942cf2dcb33b)
+![image](https://github.com/user-attachments/assets/3734ef8b-31ec-4710-bc1f-0782d8825d56)
 
-![image](https://github.com/user-attachments/assets/100db14f-2a64-41f4-a6c9-a86ae775486a)
+![image](https://github.com/user-attachments/assets/1474899c-a641-46cb-9405-430974b7f809)
 
-![image](https://github.com/user-attachments/assets/cfc790f9-f219-46ff-8ad1-29a40a222221)
-
+![image](https://github.com/user-attachments/assets/c3b1936f-7eb3-480c-85fd-aa0bff1aecb6)
